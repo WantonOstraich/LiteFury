@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic "CMakeFiles/spi-loader.dir/lib/common/xil_assert.c.o" "CMakeFiles/spi-loader.dir/lib/common/xil_io.c.o" "CMakeFiles/spi-loader.dir/lib/src/xspi.c.o" "CMakeFiles/spi-loader.dir/lib/src/xspi_options.c.o" "CMakeFiles/spi-loader.dir/lib/src/xspi_stats.c.o" "CMakeFiles/spi-loader.dir/app-linux/Main.cpp.o" -o spi-loader 

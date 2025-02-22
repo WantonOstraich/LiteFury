@@ -1,0 +1,9 @@
+/home/jerome/Git/NiteFury-and-LiteFury-2.0/spi-loader/linux/sw/CMakeFiles/spi-loader.dir
+/home/jerome/Git/NiteFury-and-LiteFury-2.0/spi-loader/linux/sw/CMakeFiles/package.dir
+/home/jerome/Git/NiteFury-and-LiteFury-2.0/spi-loader/linux/sw/CMakeFiles/package_source.dir
+/home/jerome/Git/NiteFury-and-LiteFury-2.0/spi-loader/linux/sw/CMakeFiles/edit_cache.dir
+/home/jerome/Git/NiteFury-and-LiteFury-2.0/spi-loader/linux/sw/CMakeFiles/rebuild_cache.dir
+/home/jerome/Git/NiteFury-and-LiteFury-2.0/spi-loader/linux/sw/CMakeFiles/list_install_components.dir
+/home/jerome/Git/NiteFury-and-LiteFury-2.0/spi-loader/linux/sw/CMakeFiles/install.dir
+/home/jerome/Git/NiteFury-and-LiteFury-2.0/spi-loader/linux/sw/CMakeFiles/install/local.dir
+/home/jerome/Git/NiteFury-and-LiteFury-2.0/spi-loader/linux/sw/CMakeFiles/install/strip.dir
